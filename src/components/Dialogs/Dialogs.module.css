@@ -1,0 +1,9 @@
+.communication{
+    display: flex;
+}
+.dialogs{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background: red;
+}
